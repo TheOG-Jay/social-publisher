@@ -1,0 +1,3 @@
+ID,Post Text,Scheduled Time,Status,Post URN,AI Rewrite,Error,Published Text
+1,"Just shipped my first automated publishing pipeline (Sheets -> Python -> LinkedIn)!",2026-10-25 09:00,Pending,,FALSE,,
+2,"notes: learned oauth, retries, idempotency this week. tests matter",2026-10-26 14:30,Pending,,TRUE,,
